@@ -1,14 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Application.Services.Interfaces;
-using Microsoft.EntityFrameworkCore;
-using Infrastructure.DataBase;
+﻿using Application.Services.Interfaces;
 using AutoMapper;
 using Application.DTO;
-using Domain.Models;
 using Infrastructure.Repositories.Interfaces;
 
 namespace Application.Services
